@@ -87,12 +87,6 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 
-## 🏆 Troféus
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eduardoal01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-</p>
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
