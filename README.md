@@ -83,11 +83,6 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoal01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoal01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoal01&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -100,6 +95,11 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardoal01&theme=tokyonight&utcOffset=-4" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduardoal01&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eduardoal01&theme=tokyonight" />
+</p>
+
 ### 📈 Gráfico de atividade
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoal01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/eduardoal01)
@@ -108,12 +108,6 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduardoal01/eduardoal01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eduardoal01&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
