@@ -21,9 +21,9 @@ Desenvolvedor **Full Stack Python** com foco em back-end (Django e Django REST F
 automação de processos e análise de dados. O que me move é transformar processo manual em
 sistema: entender o gargalo, automatizar e devolver tempo para as pessoas.
 
-- 💼 Desenvolvedor Python na **CAP Promotora** — CRM interno e automações comerciais
+- 💼 **Estagiário de Desenvolvimento Python** na **CAP Promotora** — CRM interno e automações comerciais
 - 🎓 Bacharelando em **Ciência da Computação** (Fametro) · Técnico em Informática (**IFAM**)
-- 🤖 Estudando **agentes de IA**: RAG, embeddings, vector stores e n8n
+- 🌱 Estudando **desenvolvimento web** e **agentes de IA**: RAG, embeddings, vector stores e n8n
 - 🧰 Boas práticas no dia a dia: Git Flow (`develop` → PR → `main`), Poetry/uv, testes e Docker
 - 📫 Contato: **eduardodesouza0811@gmail.com** · [LinkedIn](https://www.linkedin.com/in/eduardo1e/)
 
@@ -60,7 +60,7 @@ sistema: entender o gargalo, automatizar e devolver tempo para as pessoas.
 
 ## 💼 Experiência
 
-### Desenvolvedor Python — CAP Promotora · *nov/2025 – atual*
+### Estagiário de Desenvolvimento Python — CAP Promotora · *nov/2025 – atual*
 
 Desenvolvimento full stack em Python para uma promotora de crédito *(repositórios privados)*:
 
@@ -73,16 +73,6 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 
 ---
 
-## 📌 Projetos públicos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [miniguia-fastapi-async](https://github.com/eduardoal01/miniguia-fastapi-async) | Miniguia prático sobre programação assíncrona com FastAPI | `FastAPI` `Python` |
-| [Sistema Bancário em POO](https://github.com/eduardoal01/desafio-dio-Modelando-o-Sistema-Bancario-em-POO-com-Python) | Desafio DIO de modelagem de sistema bancário com orientação a objetos | `Python` `POO` |
-| [Repositório de PCCT – IFAM](https://github.com/eduardoal01/Projeto_de_armazenamento_de_PCCT_IFAM) | Plataforma para armazenamento e consulta de trabalhos de conclusão do IFAM | `HTML` `CSS` |
-
----
-
 ## 🏅 Certificações
 
 - **Bootcamp Luizalabs — Back-end com Python (2ª edição)** · DIO
@@ -90,16 +80,37 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoal01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardoal01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoal01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoal01&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoal01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduardoal01&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eduardoal01&theme=tokyonight&utcOffset=-4" />
+</p>
+
+### 📈 Gráfico de atividade
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardoal01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/eduardoal01)
+
+### 🐍 A cobrinha comendo meus commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardoal01/eduardoal01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+### 🏆 Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardoal01&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
