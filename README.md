@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Eduardo%20Alves%20de%20Souza&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20Python%20%7C%20Django%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Dados&descSize=16&descAlignY=62" />
-
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo+%F0%9F%91%8B;Back-end+com+Django+e+Django+REST;Automa%C3%A7%C3%A3o+de+processos+e+dados;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
@@ -133,5 +131,3 @@ Desenvolvimento full stack em Python para uma promotora de crédito *(repositór
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28" />
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="28" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
